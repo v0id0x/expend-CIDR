@@ -8,7 +8,7 @@
 
 
 ```sh
-go install -v github.com/h4xx00r/expend-CIDR@latest
+go install -v github.com/v0id0x/expend-CIDR@latest
 ```
 
 ## Usage
